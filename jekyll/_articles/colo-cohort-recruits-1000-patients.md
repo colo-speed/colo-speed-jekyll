@@ -31,6 +31,6 @@ We would like to extend a big thank you to everyone who has contributed to the s
 * Durham and Darlington NHS Foundation Trust
 * Surrey and Sussex Healthcare NHS Trust
 
-We are incredibly grateful for everyone’s invaluable contribution towards this major milestone and are looking forward to working with sites as the study progresses!
+We are incredibly grateful for everyone’s invaluable contribution to reaching this major milestone and are looking forward to working with sites as the study progresses!
 
 For more information on COLO-COHORT, please visit the study page below.
