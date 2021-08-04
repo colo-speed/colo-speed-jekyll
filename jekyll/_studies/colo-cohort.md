@@ -30,8 +30,8 @@ openedsites:
   - Northumbria Healthcare NHS Foundation Trust
   - Gloucestershire Hospitals NHS Foundation Trust
   - Hull University Teaching Hospitals NHS Foundation Trust
-  - Durham and Darlington NHS Foundation Trust
   - Surrey and Sussex Healthcare NHS Trust
+  - County Durham and Darlington NHS Foundation Trust
 openingsites:
   - Pennine Acute Hospitals NHS Trust
   - The Royal Wolverhampton NHS Trust
