@@ -3,6 +3,8 @@ layout: article
 title: COLO-SPEED Chief Investigator wins prestigious BSG/NIHR CRN research award
 author: Nathania Bestwick
 date: 2021-07-05T10:05:14.825Z
+tags:
+  - award
 featured: false
 type: news
 audience: everyone
