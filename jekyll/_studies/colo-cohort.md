@@ -32,6 +32,8 @@ openedsites:
   - Hull University Teaching Hospitals NHS Foundation Trust
   - Surrey and Sussex Healthcare NHS Trust
   - County Durham and Darlington NHS Foundation Trust
+  - North Tees University Hospital
+  - Salford Royal NHS Foundation Trust
 openingsites:
   - Pennine Acute Hospitals NHS Trust
   - The Royal Wolverhampton NHS Trust
@@ -40,7 +42,6 @@ openingsites:
   - University Hospitals of Morecambe Bay NHS Foundation Trust
   - Leeds Teaching Hospitals NHS Foundation Trust
   - Manchester University NHS Foundation Trust
-  - Salford Royal NHS Foundation Trust
   - Sheffield Teaching Hospitals NHS Foundation Trust
 openingsitestitle: Opening sites
 shortoverview: COLO-COHORT aims to develop a “risk stratification tool” to help
