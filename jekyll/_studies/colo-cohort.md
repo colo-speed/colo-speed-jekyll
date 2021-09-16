@@ -43,6 +43,9 @@ openingsites:
   - Leeds Teaching Hospitals NHS Foundation Trust
   - Manchester University NHS Foundation Trust
   - Sheffield Teaching Hospitals NHS Foundation Trust
+  - North Tees and Hartlepool NHS Foundation Trust
+  - NHS Golden Jubilee
+  - North Wales NHS Trust
 openingsitestitle: Opening sites
 shortoverview: COLO-COHORT aims to develop a “risk stratification tool” to help
   determine which patients are at highest risk of having polyps or cancer; this
