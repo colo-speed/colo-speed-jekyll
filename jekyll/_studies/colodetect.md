@@ -27,6 +27,7 @@ openedsites:
   - Kettering General Hospital NHS Foundation Trust
   - Bolton NHS Foundation Trust
   - North Tees and Hartlepool NHS Foundation Trust
+  - The Royal Wolverhampton NHS Trust
 openingsitestitle: Sites to be opened
 shortoverview: "COLO-DETECT is a randomised control trial that will evaluate
   whether colonoscopy assisted with the GI Genius™ Intelligent Endoscopy Module
