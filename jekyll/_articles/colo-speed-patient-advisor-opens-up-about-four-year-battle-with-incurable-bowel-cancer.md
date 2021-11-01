@@ -6,7 +6,7 @@ author: Nathania Bestwick
 date: 2021-11-01T15:58:26.767Z
 featured: false
 type: news
-audience: participants
+audience: everyone
 externallinks:
   - link: https://www.chroniclelive.co.uk/news/north-east-news/inspirational-east-boldon-mum-two-21884282
     title: Chronicle Live article on Paula Fowler
