@@ -13,7 +13,7 @@ externallinks:
 ---
 Paula Fowler, a patient who has played an integral role in patient and public involvement activities for COLO-SPEED, has been featured on the Chronicle Live website.
 
-In the [article](https://www.chroniclelive.co.uk/news/north-east-news/inspirational-east-boldon-mum-two-21884282), the inspirational mum-of-two describes her four year battle with incurable bowel cancer, detailing how she has dedicated her life to helping others through supporting various charities and becoming involved in COLO-SPEED research.
+In the [article](https://www.chroniclelive.co.uk/news/north-east-news/inspirational-east-boldon-mum-two-21884282), Paula describes her four year battle with incurable bowel cancer, detailing how she has dedicated her life to helping others through supporting various charities and becoming involved in COLO-SPEED research.
 
 The COLO-SPEED research team would like to thank Paula for everything she has done in raising awareness of bowel cancer and in supporting COLO-SPEED.
 
