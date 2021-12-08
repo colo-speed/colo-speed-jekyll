@@ -30,7 +30,7 @@ members:
   - name: Dr Laura Neilson
     affiliation: Consultant Gastroenterologist, South Tyneside Hospital
     image: /assets/images/uploads/ljn-bio-pic.png
-    email: Laura.Neilson@stft.nhs.uk
+    email: L.Neilson@nhs.net
   - name: Dr Sara Koo
     affiliation: Gastroenterology Registrar, Cumberland Infirmary
     image: /assets/images/uploads/sara.jpg
@@ -38,11 +38,11 @@ members:
   - name: Dr James Hampton
     affiliation: Clinical Research Fellow, South Tyneside Hospital
     image: /assets/images/uploads/james-hampton.jpeg
-    email: James.Hampton@stft.nhs.uk
+    email: James.Hampton@nhs.net
   - name: Ingrid Emmerson
     affiliation: Lead Research Nurse, South Tyneside Hospital
     image: /assets/images/uploads/ingrid-emmerson.jpg
-    email: Ingrid.Emmerson@stft.nhs.uk
+    email: I.Emmerson@nhs.net
   - name: Dalya Al-Shahrabi
     email: Dalya.Ali@newcastle.ac.uk
     affiliation: Research Software Engineer, Newcastle University
@@ -50,7 +50,7 @@ members:
   - name: Amy Burns
     affiliation: Research Project Manager, South Tyneside and Sunderland Foundation Trust
     image: /assets/images/uploads/amy.jpg
-    email: Amy.Burns@stft.nhs.uk
+    email: Amy.Burns6@nhs.net
   - name: Nathania Bestwick
     affiliation: Research Administrator, Newcastle University
     email: Nathania.Bestwick@newcastle.ac.uk
