@@ -10,7 +10,7 @@ externallinks:
     link: https://mailchi.mp/f950dab067f5/colo-cohort-newsletter-december-2021
 study: colo-cohort
 ---
-The December 2021 edition of the COLO-COHORT newsletter has been circulated to our study sites and subscribers. If you would like to stay up to speed with the latest COLO-COHORT news and updates, you can read the newsletter online.
+The December 2021 edition of the COLO-COHORT newsletter has been circulated to our study sites and subscribers. If you would like to stay up to speed with the latest COLO-COHORT news and updates, you can read the newsletter [online](https://mailchi.mp/f950dab067f5/colo-cohort-newsletter-december-2021).
 
 Please contact Nathania at nathania.bestwick@newcastle.ac.uk if you would like to subscribe to the newsletter.
 
