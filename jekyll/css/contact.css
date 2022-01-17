@@ -149,11 +149,12 @@
   color: var(--dk-blue);
 }
 
-#main-content .section-1 .contact-us .main-col .faq-paragraph {
+#main-content .section-1 .contact-us .main-col .faq-paragraph, #main-content .section-1 .contact-us .main-col .paragraph {
   font-size: 1.2rem;
   line-height: 1.8rem;
   word-break: break-word;
 }
+
 
 #main-content .section-1 .contact-us .left-col p {
   width: 300px;

@@ -21,7 +21,7 @@
   left: 0;
   margin-bottom: 50px;
   padding: 0px 10vw 0px 10vw;
-  z-index: 100;
+  z-index: 99;
 }
 
 #main-content .section-1 .main-title {
