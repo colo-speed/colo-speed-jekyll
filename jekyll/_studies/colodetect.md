@@ -30,6 +30,8 @@ openedsites:
   - The Royal Wolverhampton NHS Trust
   - South Tees Hospitals NHS Foundation Trust
   - Northumbria Healthcare NHS Foundation Trust
+  - University Hospitals of Morecambe Bay NHS Foundation Trust
+  - Newcastle Hospitals NHS Foundation Trust
 openingsitestitle: Sites to be opened
 shortoverview: "COLO-DETECT is a randomised control trial that will evaluate
   whether colonoscopy assisted with the GI Genius™ Intelligent Endoscopy Module
