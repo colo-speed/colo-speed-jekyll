@@ -20,7 +20,6 @@ sites:
   - name: " Mid Cheshire Hospitals NHS Foundation Trust"
   - name: Blackpool Teaching Hospitals NHS Foundation Trust
   - name: Lancashire Teaching Hospitals NHS Foundation Trust
-  - name: The Newcastle-upon-Tyne NHS Foundation Trust
   - name: The Royal Wolverhampton NHS Trust
   - name: King’s College Hospital NHS Foundation Trust
   - name: University Hospital’s Birmingham NHS Foundation Trust
@@ -39,3 +38,4 @@ sites:
   - name: NHS Golden Jubilee
   - name: North Wales NHS Trust
   - name: North Cumbria Integrated Care NHS Foundation Trust
+  - name: Newcastle Hospitals NHS Foundation Trust
