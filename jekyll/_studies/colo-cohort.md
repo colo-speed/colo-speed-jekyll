@@ -38,13 +38,11 @@ openedsites:
   - Pennine Acute Hospitals NHS Trust
   - North Cumbria Integrated Care NHS Foundation Trust
 openingsites:
-  - The Royal Wolverhampton NHS Trust
   - Frimley Health NHS Foundation Trust
-  - London North West University Healthcare NHS Trust
-  - University Hospitals of Morecambe Bay NHS Foundation Trust
   - Manchester University NHS Foundation Trust
-  - Sheffield Teaching Hospitals NHS Foundation Trust
-  - North Wales NHS Trust
+  - Barts Health NHS Trust
+  - Stockport NHS Foundation Trust
+  - St George’s University Hospitals NHS Foundation Trust
 openingsitestitle: Opening sites
 shortoverview: COLO-COHORT aims to develop a “risk stratification tool” to help
   determine which patients are at highest risk of having polyps or cancer; this
