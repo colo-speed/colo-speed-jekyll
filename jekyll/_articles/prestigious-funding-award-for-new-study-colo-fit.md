@@ -2,7 +2,7 @@
 layout: article
 title: Prestigious funding award for new study, COLOFIT
 author: Christina Dobson
-date: 2022-05-01T09:41:00.559Z
+date: 2022-04-01T09:41:00.559Z
 featured: false
 type: news
 audience: everyone
