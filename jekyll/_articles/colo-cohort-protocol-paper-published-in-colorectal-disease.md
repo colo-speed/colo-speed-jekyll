@@ -11,4 +11,4 @@ externallinks:
     title: COLO-COHORT protocol paper
 study: colo-cohort
 ---
-The COLO-COHORT protocol paper has been published in *Colorectal Disease.* The paper is available to view [online](https://colospeed.uk/assets/documents/Colorectal-Disease-2022-Hampton.pdf). For more on COLO-COHORT, view the study page below.
+The COLO-COHORT protocol paper has been published in *Colorectal Disease.* The paper is available to view [online](https://colospeed.uk/assets/documents/Colorectal-Disease-2022-Hampton.pdf). For more on COLO-COHORT, please view the study page below.
