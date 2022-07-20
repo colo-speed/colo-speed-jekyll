@@ -11,4 +11,4 @@ externallinks:
     title: COLO-DETECT protocol paper
 study: colodetect
 ---
-The COLO-DETECT protocol paper has been published in *Colorectal Disease.* The paper is available to view [online](https://colospeed.uk/assets/documents/Colorectal-Disease-2022-Seager.pdf). For more on COLO-DETECT, view the study page below.
+The COLO-DETECT protocol paper has been published in *Colorectal Disease.* The paper is available to view [online](https://colospeed.uk/assets/documents/Colorectal-Disease-2022-Seager.pdf). For more on COLO-DETECT, please view the study page below.
