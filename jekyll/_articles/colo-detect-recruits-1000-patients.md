@@ -11,7 +11,7 @@ type: news
 audience: everyone
 study: colodetect
 ---
-We are delighted to announce that COLO-DETECT has now passed its second major milestone of recruiting 1000 patients into the trial and is now half-way to its target of 2000 participants!
+We are delighted to announce that COLO-DETECT has now passed its second major milestone of recruiting 1000 patients into the trial and is now halfway to its target of 2000 participants!
 
 COLO-DETECT opened to recruitment in March 2021 at our sponsor site South Tyneside and Sunderland Foundation Trust and all 9 sites have been recruiting to the trial since March of this year. These include:
 
