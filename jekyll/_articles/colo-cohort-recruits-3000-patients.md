@@ -23,6 +23,7 @@ Massive thanks to the brilliant research teams at our study sites whose hard wor
 * Hull University Teaching Hospitals NHS Foundation Trust
 * Kettering General Hospital NHS Foundation Trust
 * Leeds Teaching Hospitals NHS Foundation Trust
+* N﻿ewcastle Hospitals NHS Foundation Trust
 * NHS Golden Jubilee
 * North Cumbria Integrated Care NHS Foundation Trust (Cumberland Infirmary and West Cumberland Hospital)
 * North Tees and Hartlepool NHS Foundation Trust
