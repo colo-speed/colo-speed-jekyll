@@ -48,7 +48,7 @@ COLO-DETECT is a randomised control trial that will evaluate whether colonoscopy
 
 The GI Genius™ Intelligent Endoscopy Module (Medtronic Ltd.) is an artificial intelligence technology platform designed to assist the colonoscopist in the detection of abnormalities within the colon. The GI Genius™ connects to existing endoscopy systems and analyses real time images from the colonoscope camera live feed using artificial intelligence. The technology then highlights areas (with a green box) to the colonoscopist that would benefit from a more detailed inspection.
 
-The study is being undertaken in Bowel Cancer Screening Programme, surveillance, and symptomatic patient populations across 1 sites. 
+The study is being undertaken in Bowel Cancer Screening Programme, surveillance, and symptomatic patient populations across 11 sites. 
 
 Participants are randomised to receive either GI Genius™ assisted colonoscopy or standard colonoscopy. The results of the colonoscopies are recorded and will be analysed to evaluate the effect of the GI Genius™ in the detection of abnormalities such as polyps and cancers. 
 
