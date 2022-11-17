@@ -41,10 +41,11 @@ openedsites:
   - Newcastle Hospitals NHS Foundation Trust
   - Stockport NHS Foundation Trust
   - Maidstone and Tunbridge Wells NHS Trust
+  - North Tees University Hospital
+  - East Suffolk and North Essex NHS Foundation Trust
 openingsites:
   - Barts Health NHS Trust
   - Manchester University NHS Foundation Trust
-  - East Suffolk and North Essex NHS Foundation Trust
   - Northern Lincolnshire and Goole NHS Foundation Trust
   - Sheffield Teaching Hospitals NHS Foundation Trust
 openingsitestitle: Opening sites
