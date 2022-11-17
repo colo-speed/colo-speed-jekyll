@@ -42,11 +42,11 @@ openedsites:
   - Stockport NHS Foundation Trust
   - Maidstone and Tunbridge Wells NHS Trust
   - North Tees University Hospital
+  - Northern Lincolnshire and Goole NHS Foundation Trust
   - East Suffolk and North Essex NHS Foundation Trust
 openingsites:
   - Barts Health NHS Trust
   - Manchester University NHS Foundation Trust
-  - Northern Lincolnshire and Goole NHS Foundation Trust
   - Sheffield Teaching Hospitals NHS Foundation Trust
 openingsitestitle: Opening sites
 shortoverview: COLO-COHORT aims to develop a “risk stratification tool” to help
