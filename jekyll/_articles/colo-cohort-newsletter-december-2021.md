@@ -2,6 +2,8 @@
 layout: article
 title: COLO-COHORT Newsletter - December 2021
 date: 2021-12-22T15:17:49.834Z
+tags:
+  - newsletter
 featured: false
 type: news
 audience: everyone
