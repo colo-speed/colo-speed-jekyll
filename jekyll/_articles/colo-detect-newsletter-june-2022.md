@@ -2,6 +2,8 @@
 layout: article
 title: COLO-DETECT Newsletter - June 2022
 date: 2022-06-30T09:37:51.030Z
+tags:
+  - newsletter
 featured: false
 type: news
 audience: everyone
