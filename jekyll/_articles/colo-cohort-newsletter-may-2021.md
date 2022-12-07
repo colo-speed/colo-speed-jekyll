@@ -2,6 +2,8 @@
 layout: article
 title: COLO-COHORT Newsletter - May 2021
 date: 2021-05-19T12:56:48.109Z
+tags:
+  - newsletter
 image: ""
 featured: false
 type: news
