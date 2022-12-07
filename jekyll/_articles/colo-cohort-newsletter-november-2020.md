@@ -2,6 +2,8 @@
 layout: article
 title: COLO-COHORT Newsletter - November 2020
 date: 2020-11-19T14:15:49.054Z
+tags:
+  - newsletter
 featured: false
 type: news
 audience: researchers
