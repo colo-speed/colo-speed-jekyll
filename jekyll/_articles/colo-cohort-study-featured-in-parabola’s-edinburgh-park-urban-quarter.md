@@ -1,6 +1,6 @@
 ---
 layout: article
-title: COLO-COHORT study featured in Parabola’s Edinburgh Park urban quarter
+title: COLO-COHORT study featured in Parabola’s Edinburgh Park
 subtitle: COLO-COHORT sponsor Parabola have featured the study on a bench in
   Edinburgh Park, their newly developed urban quarter in Edinburgh.
 author: Nathania Bestwick
