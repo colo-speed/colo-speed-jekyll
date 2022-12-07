@@ -2,6 +2,8 @@
 layout: article
 title: COLO-COHORT Newsletter - March 2022
 date: 2022-03-29T14:29:47.124Z
+tags:
+  - newsletter
 featured: false
 type: news
 audience: everyone
