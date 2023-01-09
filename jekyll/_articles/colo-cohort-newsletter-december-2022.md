@@ -1,7 +1,7 @@
 ---
 layout: article
 title: COLO-COHORT Newsletter - December 2022
-date: 2023-01-09T08:41:53.688Z
+date: 2022-12-21T08:45:06.126Z
 tags:
   - newsletter
 featured: false
