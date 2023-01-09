@@ -12,7 +12,7 @@ externallinks:
     title: COLO-COHORT Newsletter - December 2022
 study: colo-cohort
 ---
-The December 2022 edition of the COLO-COHORT newsletter is now available [online](https://mailchi.mp/e5b999df97e5/colo-cohort-newsletter-december-2022). M﻿ake sure to c﻿heck it out for a﻿ll t﻿he latest study news and an update on the upcoming IPAQ amendment.
+The December 2022 edition of the COLO-COHORT newsletter, with a﻿ll t﻿he latest study news and an update on the upcoming IPAQ amendment, is now available online! 
 
 The newsletter has also been circulated to our study sites, stakeholders and subscribers. Please contact Nathania at nathania.bestwick@newcastle.ac.uk if you would like to subscribe to the newsletter. 
 
