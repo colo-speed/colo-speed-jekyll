@@ -2,7 +2,7 @@
 layout: article
 title: COVID-19 and COLO-SPEED
 author: Professor Colin Rees and Ingrid Emmerson
-date: 2020-09-10T17:03:48.128Z
+date: 2020-09-10T17:04:00.000Z
 tags:
   - ""
 image: /assets/images/uploads/image.jpg
