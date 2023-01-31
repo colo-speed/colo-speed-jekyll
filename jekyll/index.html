@@ -73,31 +73,29 @@ layout: parent
       <!-- <div class="blue-decor"></div> -->
       <div class="featured-articles gibson-book">
         {% assign articles = site.articles | sort: 'date' | reverse %}
-        {% for article in articles %}
-          {% if article.featured == true %}
-            <div class="row" onclick="window.location='{{article.url}}'">
-              <div class="col paragraph">
-                {% if article.image != nil and article.image != "" %}
-                <div class="image-container">
-                  <div class="featured-image study-image">
-                    <img src="{{ article.image }}" class="image-content"/>
-                  </div>
+        {% for article in articles limit:1 %}
+          <div class="row" onclick="window.location='{{article.url}}'">
+            <div class="col paragraph">
+              {% if article.image != nil and article.image != "" %}
+              <div class="image-container">
+                <div class="featured-image study-image">
+                  <img src="{{ article.image }}" class="image-content"/>
                 </div>
-                {% endif %}
+              </div>
+              {% endif %}
 
-                <div class="study-container">
-                  <div class="subtitle gibson-medium">Featured Article</div>
-                  <h3 class="title gibson-medium">
-                    <a href="{{article.url}}">{{ article.title }}</a>
-                  </h3>
-                  <div class="content"  style="margin-bottom: 30px;" >
-                    {{ article.content | markdownify | newline_to_br | strip_newlines | replace: '<br />', ' ' | strip_html | strip | truncatewords: 30 }}
-                  </div>
+              <div class="study-container">
+                <div class="subtitle gibson-medium">Featured Article</div>
+                <h3 class="title gibson-medium">
+                  <a href="{{article.url}}">{{ article.title }}</a>
+                </h3>
+                <div class="content"  style="margin-bottom: 30px;" >
+                  {{ article.content | markdownify | newline_to_br | strip_newlines | replace: '<br />', ' ' | strip_html | strip | truncatewords: 30 }}
                 </div>
               </div>
             </div>
-            {% break %}
-          {% endif %}
+          </div>
+          {% break %}
         {% endfor %}
         {% assign studies = site.studies | sort: 'date' | reverse %}
         {% for study in studies %}
