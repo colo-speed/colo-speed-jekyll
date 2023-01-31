@@ -5,7 +5,7 @@ subtitle: Optimal Faecal Immunochemical Testing in Suspected Colorectal Cancer
 date: 2022-06-01T12:22:22.689Z
 featured: false
 image: /assets/images/uploads/fit-kit-test.jpg
-status: Open to recruitment
+status: Recruitment active
 funder: NIHR HTA Commissioned Call on Faecal Immunochemical Test (FIT) based
   tools to triage in primary care
 contactperson:
