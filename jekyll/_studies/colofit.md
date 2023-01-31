@@ -4,7 +4,7 @@ title: COLOFIT
 subtitle: Optimal Faecal Immunochemical Testing in Suspected Colorectal Cancer
 date: 2022-06-01T12:22:22.689Z
 featured: false
-image: /assets/images/uploads/fit-kit-test.jpg
+image: /assets/images/uploads/fit-kit-test-cropped.jpg
 status: Recruitment active
 funder: NIHR HTA Commissioned Call on Faecal Immunochemical Test (FIT) based
   tools to triage in primary care
