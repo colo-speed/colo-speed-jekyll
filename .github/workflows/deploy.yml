@@ -22,3 +22,4 @@ jobs:
             git pull
             cd /home/colospeed/colospeed
             docker-compose up -d jekyll
+
