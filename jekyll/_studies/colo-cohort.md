@@ -2,7 +2,7 @@
 layout: study
 title: COLO-COHORT
 subtitle: Colorectal Cancer Cohort Study
-date: 2020-09-21T08:12:43.696Z
+date: 2020-09-22T08:12:43.696Z
 featured: true
 image: /assets/images/overview/v1@2x.jpg
 status: Recruitment active
