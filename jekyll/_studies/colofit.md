@@ -2,7 +2,7 @@
 layout: study
 title: COLOFIT
 subtitle: Optimal Faecal Immunochemical Testing in Suspected Colorectal Cancer
-date: 2022-06-01T12:22:22.689Z
+date: 2020-09-20T12:22:22.689Z
 featured: false
 image: /assets/images/uploads/fit-kit-test-cropped.jpg
 status: Recruitment active
