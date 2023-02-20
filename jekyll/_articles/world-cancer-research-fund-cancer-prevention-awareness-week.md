@@ -1,7 +1,7 @@
 ---
 layout: article
 title: World Cancer Research Fund Cancer Prevention Awareness Week 2023
-subtitle: Here at COLO-SPEED, from the 20-26th February 2023 we will be
+subtitle: Here at COLO-SPEED, from the 20-26th February 2023, we will be
   supporting Cancer Prevention Action Week!
 author: Sarah Manning
 date: 2023-02-20T10:18:45.146Z
