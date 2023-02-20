@@ -10,9 +10,7 @@ featured: false
 type: news
 audience: everyone
 externallinks:
-  - link: To learn more, visit the
-      [CPAW23﻿](https://www.wcrf-uk.org/preventing-cancer/cancer-prevention-awareness-week/)w﻿eb
-      page.
+  - link: https://www.wcrf-uk.org/preventing-cancer/cancer-prevention-awareness-week/
     title: Cancer Prevention Awareness Week 2023
 ---
 This year’s [CPAW](https://www.wcrf-uk.org/preventing-cancer/cancer-prevention-awareness-week/) theme is to highlight the link between processed meat and bowel cancer – with their #SarnieSwap campaign encouraging people swap out the processed meat in their diet for healthier alternatives. 
@@ -37,4 +35,4 @@ Although this year #CPAW23 is focusing specifically on red and processed meat, r
 
 The COLO-SPEED team will be doing a #SarnieSwap on Monday, will you?! Use the hashtag to share your processed-meat-free sarnies!
 
-To learn more, visit the [CPAW23﻿](https://www.wcrf-uk.org/preventing-cancer/cancer-prevention-awareness-week/)w﻿eb page.
+To learn more, visit the [CPAW23](https://www.wcrf-uk.org/preventing-cancer/cancer-prevention-awareness-week/) ﻿w﻿eb page.
