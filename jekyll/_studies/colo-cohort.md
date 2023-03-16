@@ -41,7 +41,6 @@ openedsites:
   - Newcastle Hospitals NHS Foundation Trust
   - Stockport NHS Foundation Trust
   - Maidstone and Tunbridge Wells NHS Trust
-  - North Tees University Hospital
   - Northern Lincolnshire and Goole NHS Foundation Trust
   - East Suffolk and North Essex NHS Foundation Trust
   - Manchester University NHS Foundation Trust
