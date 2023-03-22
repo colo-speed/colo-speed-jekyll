@@ -3,7 +3,7 @@ layout: article
 title: COLO-SPEED featured on Our People Podcast for Colorectal Cancer Awareness Month
 author: Nathania Bestwick
 date: 2023-03-17T16:31:48.335Z
-image: /assets/images/uploads/stsft-podcast-cancer-awareness.png
+image: /assets/images/uploads/stsft-podcast-cancer-awareness-wider.png
 featured: false
 type: news
 audience: everyone
