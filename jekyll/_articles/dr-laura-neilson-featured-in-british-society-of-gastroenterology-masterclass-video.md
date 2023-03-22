@@ -3,7 +3,7 @@ layout: article
 title: Dr Laura Neilson featured in British Society of Gastroenterology
   masterclass video
 date: 2023-03-22T15:51:05.119Z
-image: /assets/images/uploads/lneilson-bsg-masterclass.png
+image: /assets/images/uploads/lneilson-bsg-masterclass-v2.png
 featured: false
 type: news
 audience: everyone
