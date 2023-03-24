@@ -6,7 +6,7 @@ subtitle: A Randomised Controlled Trial of Lesion Detection at Colonoscopy Using
 date: 2020-09-20T08:49:00.000Z
 featured: false
 image: /assets/images/uploads/colodetect-gi-genius.png
-status: Recruitment active
+status: Data analysis/reporting
 sponsor: South Tyneside and Sunderland NHS Foundation Trust
 funder: Medtronic
 contactperson:
