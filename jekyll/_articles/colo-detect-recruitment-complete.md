@@ -11,7 +11,7 @@ type: news
 audience: everyone
 study: colodetect
 ---
-We are very pleased to announce that we have completed recruitment to the COLODETECT trial.
+We are very pleased to announce that we have completed recruitment to the COLO-DETECT trial.
 
 This is a brilliant achievement and we are very grateful to our sites for all of their hard work. We have run a number of large endoscopy trials and, set against the background of the pandemic, this has been without question the biggest challenge to date.
 
