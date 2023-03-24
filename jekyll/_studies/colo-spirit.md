@@ -5,7 +5,7 @@ subtitle: COLOrectal Symptoms after PelvIc RadIoTherapy
 date: 2020-09-10T15:51:57.969Z
 featured: false
 image: /assets/images/uploads/colo-spirit.jpg
-status: In set up
+status: Recruitment active
 sponsor: "South Tyneside and Sunderland NHS Foundation Trust "
 funder: 3-D Matrix Ltd
 contactperson:
