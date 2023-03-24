@@ -1,6 +1,6 @@
 ---
 layout: article
-title: COLO-DETECT recruitment complete
+title: COLO-DETECT trial update
 author: ""
 date: 2023-03-24T12:13:24.526Z
 tags:
