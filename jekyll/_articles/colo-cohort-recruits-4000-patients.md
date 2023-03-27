@@ -17,7 +17,7 @@ COLO-COHORT Co-Chief Investigator, Prof Colin Rees, has expressed his delight an
 
 *It is a huge milestone for COLO-COHORT to reach 4000 recruits. I want to say an enormous thank you to all of the teams who have done such great work in recruiting patients to this study.*
 
-*In particular I am so grateful to all of the patients who have been prepared to join COLOCOHORT.*
+*In particular I am so grateful to all of the patients who have been prepared to join COLO-COHORT.*
 
 *We are building one of the largest resources of its kind in the world and in the coming years we hope to be able to use it to make significant advances in how we assess and reduce people’s risks of colorectal cancer.*
 
