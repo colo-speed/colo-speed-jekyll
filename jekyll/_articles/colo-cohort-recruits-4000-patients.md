@@ -39,7 +39,7 @@ Our recruiting sites are:
 * North Cumbria Integrated Care NHS Foundation Trust (Cumberland Infirmary and West Cumberland Hospital)
 * North Tees and Hartlepool NHS Foundation Trust
 * Northern Care Alliance NHS Foundation Trust (Fairfield General Hospital, Rochdale Infirmary and Salford Royal Hospital)
-* Northern Lincolnshire and Goole NHS Foundation Trust (Diana, Princess of Wales Hospital, Grimsby and Scunthorpe General Hospital, Scunthorpe)
+* Northern Lincolnshire and Goole NHS Foundation Trust (Diana, Princess of Wales Hospital and Scunthorpe General Hospital)
 * Northumbria Healthcare NHS Foundation Trust
 * South Tees Hospitals NHS Foundation Trust
 * Stockport NHS Foundation Trust
