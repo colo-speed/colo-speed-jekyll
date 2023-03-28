@@ -2,7 +2,7 @@
 layout: article
 title: COLO-COHORT recruits 4000 patients
 author: Nathania Bestwick
-date: 2023-03-27T14:57:16.190Z
+date: 2023-03-28T12:59:42.774Z
 tags:
   - milestone
 image: /assets/images/uploads/cc-4000.png
@@ -21,7 +21,7 @@ COLO-COHORT Co-Chief Investigator, Prof Colin Rees, has expressed his delight an
 
 *We are building one of the largest resources of its kind in the world and in the coming years we hope to be able to use it to make significant advances in how we assess and reduce people’s risks of colorectal cancer.*
 
-We would like to extend a huge thank you to the patients who have so graciously agreed to join our study, and to our brilliant recruiting sites for their tireless efforts, all of which have made this achievement possible. 
+We would like to extend a huge thank you to the patients who have so graciously agreed to join our study and to our brilliant recruiting sites for their tireless efforts which have made achievement possible. 
 
 Our recruiting sites are:
 
