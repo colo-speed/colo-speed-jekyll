@@ -12,7 +12,7 @@ externallinks:
     title: COLO-COHORT Newsletter - March 2023
 study: colo-cohort
 ---
-The March 2023 edition of the COLO-COHORT newsletter is now available [online](https://mailchi.mp/10e81a344fc7/colo-cohort-newsletter-march-2023). M﻿ake sure to c﻿heck it out for a﻿ll t﻿he latest study news and updates as well as a﻿n update on the upcoming preliminary analysis.
+The March 2023 edition of the COLO-COHORT newsletter is now available [online](https://mailchi.mp/10e81a344fc7/colo-cohort-newsletter-march-2023). In this edition you will find a﻿ll t﻿he latest study news and updates as well as a﻿n update on t﻿he exciting upcoming preliminary analysis.
 
 The newsletter has also been circulated to our study sites, funders, collaborators and subscribers. Please contact Nathania at nathania.bestwick@newcastle.ac.uk if you would like to subscribe to the newsletter. 
 
