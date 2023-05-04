@@ -4,7 +4,7 @@ title: Innovative COLO-SPEED AI trial receives widespread media attention
 subtitle: ""
 author: Nathania Bestwick
 date: 2023-04-28T15:13:45.778Z
-image: /assets/images/uploads/colo-detect-pr-logos-v1.png
+image: /assets/images/uploads/colo-detect-pr-logos-v2-01.png
 featured: false
 type: news
 audience: everyone
