@@ -11,7 +11,7 @@ externallinks:
   - link: https://london.intelligenthealth.ai/
     title: Intelligent Health UK website
 ---
-Dr Alexander Seager, Gastrointestinal Research Fellow at South Tyneside and Sunderland NHS Foundation Trust, has been invited to speak at Intelligent Health UK, presenting on the COLO-DETECT trial. 
+Dr Alexander Seager, Gastrointestinal Research Fellow at South Tyneside and Sunderland NHS Foundation Trust, has been invited to s﻿peak a﻿bout the COLO-DETECT trial at Intelligent Health UK 2023.
 
 Intelligent Health UK, which will be held on the 24th and 25th of May at ExCel London, will bring together the global artificial intelligence (AI) and healthcare community to advance discussions on how to apply AI and drive technological collaboration in healthcare.
 
