@@ -1,7 +1,7 @@
 ---
 layout: article
 title: COLO-SPEED takes part in Sir Bobby’s Football Run
-author: Nathania Bestwick
+author: ""
 date: 2021-05-17T10:39:27.943Z
 image: /assets/images/uploads/sbrf-run.jpg
 featured: false
