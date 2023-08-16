@@ -214,6 +214,20 @@ collections:
               - {label: Email, name: email, widget: string, required: false}
               - {label: Image, name: image, widget: image}
               # - {label: Image, name: image, widget: image_dimensions, min_width: 300, min_height: 300, validation: "Image must be 300x300px"}
+  - name: "documents"
+    label: "Documents"
+    editor:
+      preview: false
+    files:
+      - label: "Documents"
+        name: "documents"
+        file: "jekyll/_data/documents.yml"
+        fields:
+          - label: "Documents"
+            name: "documents"
+            widget: "list"
+            fields:
+              - {label: File, name: link, widget: file}
   - name: "collaborator"
     label: "Collaborators"
     editor:
