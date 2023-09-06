@@ -41,12 +41,11 @@ openedsites:
   - Newcastle Hospitals NHS Foundation Trust
   - Stockport NHS Foundation Trust
   - Maidstone and Tunbridge Wells NHS Trust
-  - North Tees University Hospital
   - Northern Lincolnshire and Goole NHS Foundation Trust
   - East Suffolk and North Essex NHS Foundation Trust
   - Manchester University NHS Foundation Trust
-openingsites:
   - Barts Health NHS Trust
+openingsites:
   - Sheffield Teaching Hospitals NHS Foundation Trust
 openingsitestitle: Opening sites
 shortoverview: COLO-COHORT aims to develop a “risk stratification tool” to help
@@ -60,9 +59,8 @@ aim: COLO-COHORT aims to develop a “risk stratification tool” to help identi
   develop a large platform of patients who consent to be contacted for future
   research.
 ref: colo-cohort
-patientinfo: This study will be rolled out to sites within the North East by
-  Autumn 2020.  If you are interested in participating in this study, and if the
-  study is open at your local hospital, please contact a member of your local
+patientinfo: If you are interested in participating in this study, and if the
+  study is open in your local NHS Trust, please contact a member of your local
   research team.
 researcherinfo: ""
 ---
