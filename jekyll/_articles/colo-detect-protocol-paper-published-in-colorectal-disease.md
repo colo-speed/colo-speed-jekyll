@@ -2,7 +2,7 @@
 layout: article
 title: COLO-DETECT protocol paper published in Colorectal Disease
 date: 2022-05-24T11:19:09.738Z
-image: /assets/images/uploads/cd-protocol.jpg
+image: /assets/images/uploads/cd.png
 featured: false
 type: publication
 audience: everyone
