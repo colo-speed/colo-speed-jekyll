@@ -2,7 +2,7 @@
 layout: article
 title: COLO-COHORT protocol paper published in Colorectal Disease
 date: 2022-03-24T13:29:14.278Z
-image: /assets/images/uploads/cc.png
+image: /assets/images/uploads/cc-2.png
 featured: false
 type: publication
 audience: everyone
