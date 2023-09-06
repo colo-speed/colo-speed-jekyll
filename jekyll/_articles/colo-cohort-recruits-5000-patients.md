@@ -1,7 +1,7 @@
 ---
 layout: article
 title: COLO-COHORT recruits 5000 patients
-date: 2023-08-01T12:37:09.177Z
+date: 2023-08-31T12:37:09.177Z
 tags:
   - milestone
 image: /assets/images/uploads/milestones-v2-06.png
