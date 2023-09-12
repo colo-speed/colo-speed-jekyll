@@ -4,7 +4,7 @@ title: COLO-SPIRIT presentation at the International Psycho-Oncology Society
   World Congress in Milan
 date: 2023-09-11T14:45:55.400Z
 tags: []
-image: /assets/images/uploads/ipos-2023-04.png
+image: /assets/images/uploads/publication-fronts-04.png
 featured: false
 type: event
 audience: everyone
