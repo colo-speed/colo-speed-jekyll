@@ -14,7 +14,7 @@ externallinks:
     title: Article on journal website
   - title: Article on COLO-SPEED website
     link: https://colospeed.uk/assets/images/uploads/cancers-15-04037.pdf
-  - title: Information on pelvic radiotherapy from Guts UK website
+  - title: Information on pelvic radiotherapy on Guts UK website
     link: https://gutscharity.org.uk/advice-and-information/conditions/pelvic-radiation-disease/
 ---
 The COLO-SPIRIT team have published their review of existing research into long-term bowel symptoms amongst cancer survivors, in the journal "Cancers”. You can access the paper on our [website](https://colospeed.uk/assets/images/uploads/cancers-15-04037.pdf) and [online](https://www.mdpi.com/2072-6694/15/16/4037), but below is a summary of what the paper said: 
