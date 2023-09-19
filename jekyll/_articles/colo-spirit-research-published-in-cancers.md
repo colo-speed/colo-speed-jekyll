@@ -5,7 +5,7 @@ author: Nathania Bestwick
 date: 2023-09-19T07:18:50.659Z
 tags:
   - publication
-image: /assets/images/uploads/colo-spirit-sr.jpg
+image: /assets/images/uploads/cs-sr-v3-04.png
 featured: false
 type: publication
 audience: everyone
