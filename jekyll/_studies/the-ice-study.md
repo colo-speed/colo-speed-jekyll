@@ -5,7 +5,7 @@ subtitle: Impact of COVID-19 on Endoscopy
 date: 2020-09-21T07:59:55.229Z
 featured: false
 image: /assets/images/uploads/covid-2.png
-status: Recruitment active
+status: Data analysis/reporting
 sponsor: South Tyneside and Sunderland NHS Foundation Trust
 funder: Guts UK Parabola Foundation grant
 contactperson:
