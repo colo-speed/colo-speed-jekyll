@@ -12,7 +12,7 @@ study: colo-cohort
 ---
 COLO-COHORT recruitment has been highly successful over the past 5 months, with 1000 new participants recruited into the study since the end of March, resulting in a grand total of over 5000 patients! 
 
-A message from Prof Colin Rees, COLO-COHORT Co-Chief Investigator:
+A message from Prof Colin Rees, COLO-COHORT Chief Investigator:
 
 *We are delighted to have reached the milestone of recruiting 5000 patients into COLO-COHORT. This is due to the hard work of all sites in the study, the amazing study team and patients being prepared to participate in research. This is now a world-leading study which we believe will improve the care of patients with possible colorectal cancer. Thank you to all involved in this study.*
 
