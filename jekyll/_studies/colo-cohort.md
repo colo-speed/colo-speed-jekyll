@@ -45,8 +45,8 @@ openedsites:
   - East Suffolk and North Essex NHS Foundation Trust
   - Manchester University NHS Foundation Trust
   - Barts Health NHS Trust
-openingsites:
   - Sheffield Teaching Hospitals NHS Foundation Trust
+openingsites: []
 openingsitestitle: Opening sites
 shortoverview: COLO-COHORT aims to develop a “risk stratification tool” to help
   determine which patients are at highest risk of having polyps or cancer; this
