@@ -10,6 +10,7 @@ audience: everyone
 externallinks:
   - link: https://london.intelligenthealth.ai/
     title: Intelligent Health UK website
+study: colodetect
 ---
 Dr Alexander Seager, Gastrointestinal Research Fellow at South Tyneside and Sunderland NHS Foundation Trust, has been invited to s﻿peak a﻿bout the COLO-DETECT trial at Intelligent Health UK 2023.
 
