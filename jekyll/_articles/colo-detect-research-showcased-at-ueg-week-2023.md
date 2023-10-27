@@ -1,7 +1,7 @@
 ---
 layout: article
 title: COLO-DETECT research showcased at UEG Week 2023
-date: 2023-10-27T14:03:48.288Z
+date: 2023-10-23T14:34:58.770Z
 image: /assets/images/uploads/colo-detect-ueg-04.png
 featured: false
 type: event
