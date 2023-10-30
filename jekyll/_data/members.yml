@@ -18,6 +18,10 @@ members:
     bio: null
     email: Kyle.Montague@northumbria.ac.uk
     image: /assets/images/uploads/kyle.jpg
+  - name: Dr Christina Dobson
+    affiliation: Programme Manager
+    bio: Christina.Dobson@newcastle.ac.uk
+    image: /assets/images/uploads/christina-1.jpeg
   - name: Miss Farhat Din
     bio: ""
     email: Farhat.Din@ed.ac.uk
@@ -65,7 +69,3 @@ members:
   - name: Dr Barry Sandywell
     affiliation: Patient and Public Involvement Lead
     image: /assets/images/uploads/barry.jpg
-  - name: Dr Christina Dobson
-    affiliation: Programme Manager
-    bio: Christina.Dobson@newcastle.ac.uk
-    image: /assets/images/uploads/christina-1.jpeg
