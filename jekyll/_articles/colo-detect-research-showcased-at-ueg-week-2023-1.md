@@ -11,7 +11,7 @@ externallinks:
     link: https://ueg.eu/week
 study: colodetect
 ---
-COLO-DETECT trial manager, Dr Alexander Seager, presented COLO-DETECT research at the United European Gastroenterology [UEG Week 2023](https://ueg.eu/week)in Copenhagen. 
+COLO-DETECT trial manager, Dr Alexander Seager, presented COLO-DETECT research at the United European Gastroenterology [UEG Week 2023](https://ueg.eu/week)in Copenhagen.
 
 This prominent event, which took place from 14-17 October, serves as a leading platform for showcasing and discussing the latest breakthroughs in treatments, products and devices in the field of gastroenterology.
 
