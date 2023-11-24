@@ -1,6 +1,6 @@
 ---
 layout: article
-title: Welcome to the team!
+title: "Welcome to the team: Alexander Seager"
 subtitle: ""
 date: 2020-12-21T10:08:01.264Z
 image: /assets/images/uploads/alexander-seager-2-01.png
